@@ -3,6 +3,7 @@ require("@nomicfoundation/hardhat-toolbox");
 
 module.exports = {
   solidity: "0.8.19",
+<<<<<<< HEAD
   networks: {
     custom: {
       chainId: 1337, // Change to your desired chain ID
@@ -18,4 +19,6 @@ module.exports = {
       initialBlockNumber: 1000, // Set custom initial block number
     },
   },
+=======
+>>>>>>> 644d24a8ceee1b4b2d4ed07e7f3440a7aab5f94c
 };

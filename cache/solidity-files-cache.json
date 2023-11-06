@@ -1,6 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
+<<<<<<< HEAD
     "C:\\Users\\koush\\Downloads\\Hardhat-main (1)\\Hardhat-main\\contracts\\eth_max_priogas.sol": {
       "lastModificationDate": 1699234869978,
       "contentHash": "f751419a9b3eb7416ad0f0f324b1a1af",
@@ -39,6 +40,11 @@
     "C:\\Users\\koush\\Downloads\\Hardhat-main (1)\\Hardhat-main\\contracts\\MyTest.sol": {
       "lastModificationDate": 1699234074091,
       "contentHash": "4016822f807e1a76c619d67930a7ed45",
+=======
+    "C:\\Users\\koush\\OneDrive - University of Texas at Arlington\\Desktop\\Hardhat\\contracts\\MyTest.sol": {
+      "lastModificationDate": 1695656275931,
+      "contentHash": "22c77e5a0b731682482899e51ccd069f",
+>>>>>>> 644d24a8ceee1b4b2d4ed07e7f3440a7aab5f94c
       "sourceName": "contracts/MyTest.sol",
       "solcConfig": {
         "version": "0.8.19",
@@ -70,6 +76,44 @@
       "artifacts": [
         "Lock"
       ]
+<<<<<<< HEAD
+=======
+    },
+    "C:\\Users\\koush\\OneDrive - University of Texas at Arlington\\Desktop\\Hardhat\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1695606678824,
+      "contentHash": "896f68942c3a20e9ae3c3c5bfd3add54",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+>>>>>>> 644d24a8ceee1b4b2d4ed07e7f3440a7aab5f94c
     }
   }
 }
